@@ -8,21 +8,22 @@ To merge into the "test" branch you do not need any approval. All code commited 
 Most testing should occure on the temp branches.
 
 To start working on a new feature:
-1. Create a new branch on GitHub.com by going to "Code", selecting the "branch" dropdown and typing in the name of your new branch (name it anything you want).
-2. Next, go to Unity and "Fetch" the repository in the GitHub pannel.
-3. In Unity go to "Branches" and double-click on the branch you have just created.
-4. You can now work in this branch and make commits/pushes to this branch as you go.
+1. Create a new branch on GitHub.com by going to "Code", selecting the "branch" dropdown and select "test"
+2. Then select the drop down again and typing in the name of your new branch (name it anything you want).
+3. Next, go to Unity and "Fetch" the repository in the GitHub pannel.
+4. In Unity go to "Branches" and double-click on the branch you have just created.
+5. You can now work in this branch and make commits/pushes to this branch as you go.
 
-5. Once you are ready to merge your changes into the test branch, commit your changes to your branch once more.
-6. Push your changes to your branch.
-7. Pull any new changes down from the test branch to avoid merge conflicts.
+6. Once you are ready to merge your changes into the test branch, commit your changes to your branch once more.
+7. Push your changes to your branch.
+8. Pull any new changes down from the test branch to avoid merge conflicts.
 
-8. Go to the GitHub site and navigate to the "Pull Requests" tab.
-9. Click on "New pull request".
-10. Select the "test" branch on the left and your branch on the right.
-11. Click "Create pull request".
-12. Click "Create pull request" again.
-13. Click "Merge pull request".
-14. Finaly click "Confirm merge".
-15. Your code should now be merged into the "test" branch.
-16. You can delete the temp branch by clicking "Delete branch".
+9. Go to the GitHub site and navigate to the "Pull Requests" tab.
+10 Click on "New pull request".
+11. Select the "test" branch on the left and your branch on the right.
+12. Click "Create pull request".
+13. Click "Create pull request" again.
+14. Click "Merge pull request".
+15. Finally click "Confirm merge".
+16. Your code should now be merged into the "test" branch.
+17. You can delete the temp branch by clicking "Delete branch".
