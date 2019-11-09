@@ -1,0 +1,27 @@
+In order to prevent loss of code or corruption of branches please follow the rules listed below.
+
+We will be creating a new temporary branch for each time you work on something new.
+These temp branches will be merged into the "test" branch once you are ready.
+When we are ready we will merge the "test" branch into the "master" branch.
+To merge into the "master" branch there needs to be two other people that approve the merge.
+To merge into the "test" branch you do not need any approval. All code commited to the test branch should be fully working to the best of your knowledge.
+Most testing should occure on the temp branches.
+
+To start working on a new feature
+1. Create a new branch on GitHub.com by going to "Code", selecting the "branch" dropdown and typing in the name of your new branch (name it anything you want).
+2. Next, go to Unity and "Fetch" the repository in the GitHub pannel.
+3. In Unity go to "Branches" and double-click on the branch you have just created.
+4. You can now work in this branch and make commits/pushes to this branch as you go.
+
+5. Once you are ready to merge your changes into the test branch, commit your changes to your branch once more
+6. Push your changes to your branch
+7. Pull any new changes down from the test branch to avoid merge conflicts.
+
+8. Go to the GitHub site and navigate to the "Pull Requests" tab
+9. Click on "New pull request"
+10. Select the "test" branch on the left and your branch on the right.
+11. Click "Create pull request"
+12. Click "Create pull request" again
+13. Click "Merge pull request"
+14. Finaly click "Confirm merge"
+15. Your code should now be merged into the "test" branch 
