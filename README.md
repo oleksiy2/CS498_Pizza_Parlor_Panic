@@ -1,2 +1,2 @@
-# CS498_Car_Proj
-The beset game ever
+# CS498_Pizza_Parlor_Panic
+The best pizza game ever
