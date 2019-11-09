@@ -1,0 +1,10 @@
+1. Download github unity asset https://unity.github.com/
+2. Download zip of repository from Github
+3. Open Unity and open the project in unity
+4. Go to "Assets" and import custom package find the zip file and add it
+5. Go to "Window" and find "Github" and click on it
+6. Sign in to Github with your credentials on right side of screen
+7. Go to "Settings" add the URL https://github.com/oleksiy2/CS498_Pizza_Parlor_Panic to "Repository Configuration"
+8. Go to "Changes" and click "Commit to master"
+9. Go to "Window" and "Github Command Line"
+10. Type <git pull origin master --allow-unrelated-histories>
